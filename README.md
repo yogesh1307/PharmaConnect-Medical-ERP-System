@@ -17,7 +17,7 @@ In the project directory, you can run:
 
 ### For Server Side Django Project Follow This Link.
 
-<a href="https://github.com/yogesh1307/DjangoMedicalStoreManagementSystem">Django Medical Store management System Server Side API</a>
+<a href="https://github.com/yogesh1307/PharmaConnect-Medical-ERP-Django-Backend.git">Django Medical Store Server Side API</a>
 
 ## Login Page Added.
 
